@@ -1,4 +1,4 @@
-# PhotonMapping
+# Photon Mapping Implementation
 
 C++ custom implementation of Photon Mapping raytracing technique for global illumination. VS 2008 solution.
 Extern libraries: QT and ANN (Approximate Nearest Neighbour).
