@@ -4,3 +4,5 @@ C++ custom implementation of Photon Mapping raytracing technique for global illu
 Extern libraries: QT and ANN (Approximate Nearest Neighbour).
 
 Refer to this link for information about the technique: https://en.wikipedia.org/wiki/Photon_mapping
+
+![Screenshot](photon_mapping.png)
